@@ -6,7 +6,7 @@ created by Richard, November 2021
 
 
 def main():
-    print("Barbarian!")
+    print("Barbarian")
 
 
 main()
